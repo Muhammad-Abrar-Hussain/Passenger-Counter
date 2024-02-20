@@ -1,2 +1,2 @@
 # Passenger-Counter
-App to Count built using javascript
+The app is built by the use of JavaScript that can take count and keep records of recorded data.
